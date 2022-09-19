@@ -109,7 +109,7 @@ const CourseDetails = ({ navigation, route }) => {
       textTransform: "uppercase",
       fontWeight: "500",
       paddingBottom: 15,
-      fontFamily: "WorkSans_400Regular",
+      fontFamily: "Nunito_700Bold",
       textAlign: "center",
     },
   
@@ -118,7 +118,7 @@ const CourseDetails = ({ navigation, route }) => {
       fontSize: 16,
       color: "#7d7d7d",
       paddingBottom: 20,
-      fontFamily: "WorkSans_400Regular",
+      fontFamily: "Nunito_700Bold",
       lineHeight: 20,
     },
     subCourse: {
@@ -143,7 +143,7 @@ const CourseDetails = ({ navigation, route }) => {
       borderBottomLeftRadius: 1,
       borderTopLeftRadius: 1,
       fontSize: 20,
-      fontFamily: "WorkSans_400Regular",
+      fontFamily: "Nunito_700Bold",
       textAlign: "center",
     },
     buttonStyle: {
@@ -159,7 +159,7 @@ const CourseDetails = ({ navigation, route }) => {
     buttonText: {
       fontSize: 20,
       color: "#eee",
-      fontFamily: "WorkSans_400Regular",
+      fontFamily: "Nunito_700Bold",
     },
   });
   

@@ -76,7 +76,7 @@ const Home = (props) => {
       marginTop: 30,
       paddingBottom: 50,
       lineHeight: 27,
-      fontFamily: "JosefinSans_700Bold",
+      fontFamily: "Nunito_700Bold",
     },
   
     lineStyle: {

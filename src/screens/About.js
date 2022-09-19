@@ -97,7 +97,7 @@ const styles = StyleSheet.create({
     fontSize: 18,
     color: "red",
     paddingBottom: 30,
-    fontFamily: "WorkSans_400Regular",
+    fontFamily: "Nunito_700Bold",
   },
   aboutLayout: {
     backgroundColor: "#4c5dab",
@@ -117,7 +117,7 @@ const styles = StyleSheet.create({
   aboutPara: {
     color: "#fff",
     fontSize: 18,
-    fontFamily: "WorkSans_400Regular",
+    fontFamily: "Nunito_700Bold",
     lineHeight: 26,
   },
   menuContainer: {

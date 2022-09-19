@@ -90,7 +90,7 @@ const styles = StyleSheet.create({
   },
   description: {
     textAlign: "left",
-    fontFamily: "WorkSans_400Regular",
+    fontFamily: "Nunito_700Bold",
     paddingBottom: 15,
     lineHeight: 20,
     fontSize: 16,
@@ -113,7 +113,7 @@ const styles = StyleSheet.create({
   buttonText: {
     fontSize: 20,
     color: "#eee",
-    fontFamily: "WorkSans_400Regular",
+    fontFamily: "Nunito_700Bold",
     textTransform: "capitalize",
   },
 });
